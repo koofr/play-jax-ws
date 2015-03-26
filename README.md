@@ -1,6 +1,6 @@
 # play-jax-ws
 
-Expose your SOAP service with Play Framework.
+Expose your JAX-WS SOAP service with Play Framework.
 
 ## Example
 

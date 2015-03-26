@@ -1,0 +1,6 @@
+play-jax-ws Scala example
+=========================
+
+# Usage
+
+Run `./activator run` and open `http://localhost:9000/example-service/?wsdl` in SoapUI.
